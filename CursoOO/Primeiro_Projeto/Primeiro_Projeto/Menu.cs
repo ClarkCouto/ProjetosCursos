@@ -16,6 +16,8 @@ namespace Primeiro_Projeto
                     "\n2 - Fórmula de Báskara" +
                     "\n3 - Média de Idades" +
                     "\n4 - Exercícios de Revisão 1" +
+                    "\n5 - Área Triângulo" +
+                    "\n6 - Área Triângulo com Objetos" +
                     "\n0 - Sair");
                 try
                 {
@@ -37,6 +39,12 @@ namespace Primeiro_Projeto
                             break;
                         case 4:
                             MenuExerciciosRevisao1();
+                            break;
+                        case 5:
+                            AreaTriangulo.Calcular();
+                            break;
+                        case 6:
+                            AreaTriangulo.CalcularComObjetos();
                             break;
                     }
                 }
