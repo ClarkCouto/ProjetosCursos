@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace Primeiro_Projeto
@@ -17,7 +18,7 @@ namespace Primeiro_Projeto
 
             int volumeFrasco = 0 , vazaoBomba = 0, tempoUtilizacao = 0;
 
-            //Ler o valor de A
+            //Ler o volume do frasco
             bool valido = false;
             do
             {
@@ -33,6 +34,8 @@ namespace Primeiro_Projeto
                 }
             }
             while (!valido);
+
+            //Ler a vazão da bomba
             valido = false;
             do
             {
@@ -48,6 +51,8 @@ namespace Primeiro_Projeto
                 }
             }
             while (!valido);
+
+            //Ler o tempo de utilização
             valido = false;
             do
             {
@@ -74,44 +79,195 @@ namespace Primeiro_Projeto
         }
         public static void Exercicio2()
         {
-            Console.WriteLine("Exercício 2 - Revisão 1");
+            Console.WriteLine("\nExercício 2 - Revisão 1");
+            Console.WriteLine("\tDeseja - se fazer um programa para calcular a nota final de um estudante, considerando as " +
+                              "três notas que ele tirou nos três trimestres de seu curso.Caso a nota final do estudante seja " +
+                              "menor que 60.00, deve - se mostrar uma mensagem 'DEPENDENCIA' também.\n");
+
+            double nota1 = 0, nota2 = 0, nota3 = 0, media = 0;
+
+            //Ler a nota 1
+            bool valido = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite a nota 1: ");
+                    nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    valido = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+            }
+            while (!valido);
+
+            //Ler a nota 2
+            valido = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite a nota 2: ");
+                    nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    valido = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+            }
+            while (!valido);
+
+            //Ler a nota 3
+            valido = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite a nota 3: ");
+                    nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    valido = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+            }
+            while (!valido);
+
+            media = (double)(nota1 + nota2 + nota3) / 3;
+
+            Console.WriteLine("Somatório Final = " + (nota1 + nota2 + nota3));
+
+            if(media > 60.00)
+                Console.WriteLine("Média Final = " + media.ToString("F2"));
+            else
+                Console.WriteLine("Média Final = " + media.ToString("F2") + " DEPENDÊNCIA");
         }
         public static void Exercicio3()
         {
-            Console.WriteLine("Exercício 3 - Revisão 1");
+            Console.WriteLine("\nExercício 3 - Revisão 1");
+            Console.WriteLine("\tDadas as dimensões de uma foto e de um porta retrato, você deve verificar se uma foto cabe\n" +
+                              "em um porta retrato.Você pode girar a foto 90° para adequá - la à dimensão do porta retrato.\n");
+
+            double nota1 = 0, nota2 = 0;
+
+            //Ler a nota 1
+            bool valido = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite a nota 1: ");
+                    nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    valido = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+            }
+            while (!valido);
+
+            //Ler a nota 2
+            valido = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite a nota 2: ");
+                    nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    valido = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+            }
+            while (!valido);
         }
         public static void Exercicio4()
         {
-            Console.WriteLine("Exercício 4 - Revisão 1");
+            Console.WriteLine("\nExercício 4 - Revisão 1");
+            Console.WriteLine("\tFazer um programa para ler a quantidade de glicose no sangue de uma pessoa e depois mostrar\n" +
+                              "na tela a classificação desta glicose de acordo com a tabela de referência ao lado.\n");
+            Console.WriteLine("\tClassificação      Glicose\n" +
+                              "Normal             Até 100 mg/dl\n" +
+                              "\tElevado            Maior que 100 até 140 mg/dl\n" +
+                              "\tDiabetes           Maior de 140 mg/dl\n");
+
         }
         public static void Exercicio5()
         {
-            Console.WriteLine("Exercício 5 - Revisão 1");
+            Console.WriteLine("\nExercício 5 - Revisão 1");
+            Console.WriteLine("\tNo arremesso de dardo, o atleta tem três chances para lançar o dardo à maior distância que conseguir.\n" +
+                              "Você deve criar um programa para, dadas as medidas das três tentativas de lançamento, informar qual foi a maior.\n");
 
         }
         public static void Exercicio6()
         {
-            Console.WriteLine("Exercício 6 - Revisão 1");
+            Console.WriteLine("\nExercício 6 - Revisão 1");
+            Console.WriteLine("\tFazer um programa para ler dois números inteiros e mostrar a soma de todos os números ímpares entre eles,\n" +
+                              "inclusive eles próprios.\n");
+
 
         }
         public static void Exercicio7()
         {
-            Console.WriteLine("Exercício 7 - Revisão 1");
+            Console.WriteLine("\nExercício 7 - Revisão 1");
+            Console.WriteLine("\tLeia números inteiros até que um 0 (zero) seja lido. Para cada valor lido, o programa deve mostrar o \n" +
+                              "quadrado do valor.\n" +
+                              "Lembrete: você não precisa ler todos dados para só depois começar a mostrar a saída.Você pode ir lendo \n" +
+                              "um número e mostrando a saída referente a ele, um de cada vez.");
 
         }
         public static void Exercicio8()
         {
             Console.WriteLine("Exercício 8 - Revisão 1");
+            Console.WriteLine("\tLeia três valores inteiros N, A e B. Em seguida, mostrar todos os múltiplos de N contidos no intervalo\n" +
+                              "A e B (inclusive os próprios valores A e B).\n" +
+                              "Entrada:\n" +
+                              "A entrada é composta de três números inteiros N, A e B, respectivamente, sendo A<B (não precisa se preocupar\n" +
+                              "em verificar se A é menor que B).\n" +
+                              "Saída:\n"+
+                              "A saída contém os múltiplos de N entre A e B, sendo um valor por linha.Se não houver nenhum, não se deve\n" +
+                              "imprimir nada.\n");
 
         }
         public static void Exercicio9()
         {
             Console.WriteLine("Exercício 9 - Revisão 1");
-
+            Console.WriteLine("\tAlexandre está se mordendo de vontade de jogar muito vídeo game depois das provas finais do\n" +
+                              "primeiro trimestre. Entretanto, ele quer se prevenir de ficar sem bateria para o controle do vídeo\n" +
+                              "game. Para isso, ele deseja se planejar, recarregando completamente a bateria do controle do vídeo\n" +
+                              "game, e fazendo um acompanhamento de tempo a cada vez que for jogar.Assim, ele deseja informar quantas\n" +
+                              "vezes pretende jogar, e quanto tempo vai jogar em cada vez.Você deve construir um programa que informa\n" +
+                              "o tempo restante de cada vez que ele for jogar.\n" +
+                              "Entrada:" +
+                              "A entrada consiste do tempo total de duração da bateria completamente recarregada(em horas - ponto\n" +
+                              "flutuante com uma casa decimal), seguido de um número inteiro N indicando quantas vezes Alexandre\n" +
+                              "pretende jogar, seguido dos tempos que ele vai jogar em cada vez(em horas - ponto flutuante com uma\n" +
+                              "casa decimal).\n" +
+                              "Saída:\n" +
+                              "A saída é composta do tempo restante de duração da bateria a cada vez que Alexandre for jogar(em horas -\n" +
+                              "ponto flutuante com uma casa decimal).Se o tempo restante da bateria não for suficiente para uma determinada\n" +
+                              "vez que Alexandre for jogar, mostrar a palavra 'recarregar'.");
         }
         public static void Exercicio10()
         {
             Console.WriteLine("Exercício 10 - Revisão 1");
+            Console.WriteLine("O curso de Computação Gráfica do IFTM é trimestral, sendo que as notas do ano são divididas em três\n" +
+                              "partes: 30, 35 e 35, totalizando 100 pontos no ano.O professor de programação está querendo automatizar\n" +
+                              "o processo de fechamento de notas, fazendo um programa para somar as notas dos três trimestres de todos\n" +
+                              "alunos da turma.\n" +
+                              "Entrada:\n" +
+                              "A entrada é composta por um número inteiro N representando a quantidade de alunos da turma, seguida pelas\n" +
+                              "três notas de cada aluno da turma. As notas de um aluno são representadas por três números de ponto flutuante\n" +
+                              "com duas casas decimais.\n" +
+                              "Saída:\n" +
+                              "A saída mostra a nota final de cada aluno(duas casas decimais).\n");
 
         }
 

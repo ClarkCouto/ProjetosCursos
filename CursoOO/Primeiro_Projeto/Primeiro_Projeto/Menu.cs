@@ -56,9 +56,9 @@ namespace Primeiro_Projeto
             {
                 Console.WriteLine("\nMenu - Exercícios de Revisão 1" +
                     "\n 1 - Agricultor" +
-                    "\n 2 - " +
-                    "\n 3 - " +
-                    "\n 4 - " +
+                    "\n 2 - Média de Notas" +
+                    "\n 3 - Porta Retrato" +
+                    "\n 4 - Resultado Glicemia" +
                     "\n 5 - " +
                     "\n 6 - " +
                     "\n 7 - " +
