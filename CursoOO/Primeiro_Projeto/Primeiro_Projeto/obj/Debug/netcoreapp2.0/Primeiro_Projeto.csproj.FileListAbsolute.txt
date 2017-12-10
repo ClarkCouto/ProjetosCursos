@@ -1,11 +1,11 @@
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.AssemblyInfoInputs.cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.AssemblyInfo.cs
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\netcoreapp2.0\Primeiro_Projeto.deps.json
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\netcoreapp2.0\Primeiro_Projeto.runtimeconfig.json
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\netcoreapp2.0\Primeiro_Projeto.runtimeconfig.dev.json
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\netcoreapp2.0\Primeiro_Projeto.dll
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\netcoreapp2.0\Primeiro_Projeto.pdb
-C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.csprojResolveAssemblyReference.cache
-C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.csproj.CoreCompileInputs.cache
-C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.AssemblyInfoInputs.cache
-C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.AssemblyInfo.cs
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.dll
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\netcoreapp2.0\Primeiro_Projeto.pdb

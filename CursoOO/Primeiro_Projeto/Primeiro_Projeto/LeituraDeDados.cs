@@ -3,9 +3,9 @@ using System.Globalization;
 
 namespace Primeiro_Projeto
 {
-    class Program
+    public class LeituraDeDados
     {
-        static void Main(string[] args)
+        public static void LerDados()
         {
             Console.WriteLine("Escrever Double formatando as casas decimais...");
             Double numero = 10.35784;
@@ -49,7 +49,6 @@ namespace Primeiro_Projeto
             {
                 Console.WriteLine(s);
             }
-            Console.ReadLine();
 
         }
     }
