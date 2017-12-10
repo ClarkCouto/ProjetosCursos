@@ -18,3 +18,13 @@ C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\obj\Debug\netcoreap
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\obj\Debug\netcoreapp2.0\CursoOO.AssemblyInfo.cs
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\obj\Debug\netcoreapp2.0\CursoOO.dll
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\obj\Debug\netcoreapp2.0\CursoOO.pdb
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\bin\Debug\netcoreapp2.0\CursoOO.deps.json
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\bin\Debug\netcoreapp2.0\CursoOO.runtimeconfig.json
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\bin\Debug\netcoreapp2.0\CursoOO.runtimeconfig.dev.json
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\bin\Debug\netcoreapp2.0\CursoOO.dll
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\bin\Debug\netcoreapp2.0\CursoOO.pdb
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\obj\Debug\netcoreapp2.0\CursoOO.csproj.CoreCompileInputs.cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\obj\Debug\netcoreapp2.0\CursoOO.AssemblyInfoInputs.cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\obj\Debug\netcoreapp2.0\CursoOO.AssemblyInfo.cs
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\obj\Debug\netcoreapp2.0\CursoOO.dll
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\CursoOO\Configuracao_Inicial\obj\Debug\netcoreapp2.0\CursoOO.pdb

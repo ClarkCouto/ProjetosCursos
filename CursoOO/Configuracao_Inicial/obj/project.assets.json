@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\CursoOO.csproj",
+      "projectUniqueName": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\Configuracao_Inicial\\CursoOO.csproj",
       "projectName": "CursoOO",
-      "projectPath": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\CursoOO.csproj",
+      "projectPath": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\Configuracao_Inicial\\CursoOO.csproj",
       "packagesPath": "C:\\Users\\Clark Couto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\obj\\",
+      "outputPath": "C:\\Users\\Clark Couto\\Documents\\GitHub\\ProjetosCursos\\CursoOO\\Configuracao_Inicial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
