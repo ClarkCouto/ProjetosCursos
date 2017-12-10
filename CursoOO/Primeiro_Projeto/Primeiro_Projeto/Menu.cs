@@ -14,6 +14,7 @@ namespace Primeiro_Projeto
                 Console.WriteLine("\nMenu..." +
                     "\n1 - Entrada de Dados" +
                     "\n2 - Fórmula de Báskara" +
+                    "\n3 - Média de Idades" +
                     "\n0 - Sair");
                 try
                 {
@@ -29,6 +30,10 @@ namespace Primeiro_Projeto
                         case 2:
                             FormulaBaskara.Calcular();
                             break;
+                        case 3:
+                            MediaIdades.Calcular();
+                            break;
+
                     }
                 }
                 catch(Exception e)
