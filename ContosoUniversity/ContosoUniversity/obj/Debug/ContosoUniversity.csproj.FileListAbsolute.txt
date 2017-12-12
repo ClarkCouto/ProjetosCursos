@@ -55,3 +55,5 @@ C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUn
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
