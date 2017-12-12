@@ -1,3 +1,0 @@
-Atalhos Visual Studio
-	Autoidentação = Ctrl + K + D
-	Comentar Linhas = Ctrl + K + C
