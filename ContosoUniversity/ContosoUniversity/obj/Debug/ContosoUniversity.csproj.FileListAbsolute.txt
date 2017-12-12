@@ -51,3 +51,7 @@ C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUn
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
