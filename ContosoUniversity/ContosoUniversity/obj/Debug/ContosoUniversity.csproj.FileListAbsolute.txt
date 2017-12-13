@@ -57,3 +57,6 @@ C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUn
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\Clark Couto\Documents\GitHub\ProjetosCursos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
