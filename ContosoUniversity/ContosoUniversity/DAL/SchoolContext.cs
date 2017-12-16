@@ -1,4 +1,5 @@
 ﻿using ContosoUniversity.Models;
+using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
@@ -22,6 +23,7 @@ namespace ContosoUniversity.DAL
                 .Map(t => t.MapLeftKey("CourseID")
                     .MapRightKey("InstructorID")
                     .ToTable("CourseInstructor"));
+            modelBuilder.Entity<Department>().MapToStoredProcedures();
         }
     }
 }
